@@ -10,6 +10,8 @@
 1,The file that the website's code in it has a random name.
 </p>
 <p style=color:red>2,Some times the SpiderTemplate can not connect web.It will be erro at that time.</p>
-<p style=color:red>3,Give me a star,please ! ! ! ! ! ! ! ! !</p>
+<p style=color:red>3,We are students.And we used Golang first time in this project(we used Python before),Please give our some suggest!</p>
+<p style=color:red>4,Give me a star,please ! ! ! ! ! ! ! ! !</p>
 <p>My website:<a href="https://wczzd.github.io">Wczzd</a></p>
 <p>(We also sell karambit(make of paper)!We make Happy too!!!)</p>
+<p style="text-align:center">—————————WczzdStudio(a children's studio)
