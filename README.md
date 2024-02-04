@@ -14,4 +14,4 @@
 <p style=color:red>4,Give me a star,please ! ! ! ! ! ! ! ! !</p>
 <p>My website:<a href="https://wczzd.github.io">Wczzd</a></p>
 <p>(We also sell karambit(make of paper)!We make Happy too!!!)</p>
-<p style="text-align:center">—————————WczzdStudio(a children's studio)
+<p style="text-align:center">—————————WczzdStudio
